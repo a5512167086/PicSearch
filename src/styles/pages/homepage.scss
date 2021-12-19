@@ -1,0 +1,22 @@
+.pictures {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+.loadPicture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  button {
+    padding: 0.25rem 0.5rem;
+    font-size: 2rem;
+    border: none;
+    color: #fafafa;
+    background-color: #4b636e;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+}

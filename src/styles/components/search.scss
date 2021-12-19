@@ -1,0 +1,19 @@
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0rem;
+  input,
+  button {
+    font-size: 2rem;
+    padding: 0.25rem;
+    border: 2px solid #a7c0cd;
+    border-radius: 10px;
+  }
+  button {
+    margin-left: 1rem;
+    cursor: pointer;
+    background-color: #4b636e;
+    color: #fafafa;
+  }
+}

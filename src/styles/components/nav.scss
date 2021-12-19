@@ -1,0 +1,15 @@
+nav {
+  background-color: #78909c;
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+    li {
+      padding: 0.5rem 1rem;
+      a {
+        font-size: 1.75rem;
+        color: #fafafa;
+      }
+    }
+  }
+}
